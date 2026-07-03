@@ -17,6 +17,8 @@ Landing Page
   <img src="MunchExp.png" alt="MunchExp Logo" height="70%" width="70%" />
 </div>
 
+#### Demo : https://munch-exp-nu.vercel.app
+
 * * * * *
 
 
